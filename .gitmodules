@@ -1,0 +1,6 @@
+[submodule "diffvg-ported"]
+	path = diffvg-ported
+	url = git@github.com:liu-yucheng/diffvg-ported.git
+[submodule "Word-As-Image-Extended"]
+	path = Word-As-Image-Extended
+	url = git@github.com:liu-yucheng/Word-As-Image-Extended.git
