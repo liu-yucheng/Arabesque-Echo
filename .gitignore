@@ -3,11 +3,13 @@
 !**/.git*
 
 # Word-As-Image ignored files
+Word-As-Image-Extended/
 Word-As-Image-Extended/TOKEN
 Word-As-Image-Extended/output/
 Word-As-Image-Extended/code/data/init/
 
 # diffvg-ported ignored files
+diffvg-ported/
 diffvg-ported/build
 diffvg-ported/apps/results
 diffvg-ported/apps/files
