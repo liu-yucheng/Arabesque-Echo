@@ -1,8 +1,8 @@
 # Arabesque-Echo
 
 - Arabesque Echo code repository.
-- Includes [liu-yucheng/diffvg-ported]().
-- Includes [liu-yucheng/Word-As-Image-Extended]().
+- Includes submodule [liu-yucheng/diffvg-ported](https://github.com/liu-yucheng/diffvg-ported).
+- Includes submodule [liu-yucheng/Word-As-Image-Extended](https://github.com/liu-yucheng/Word-As-Image-Extended).
 
 # Usage
 
@@ -14,7 +14,9 @@
 - `.\create-conda-env.bat`
 - `.\install-dependencies.bat`
 - `.\fix-diffvg-package.bat`
-- `.\start-0-1-0.bat`
+- Create an empty text file at `.\Word-As-Image-Extended\TOKEN`.
+- Copy and paste your [HuggingFace access token](https://huggingface.co/settings/tokens) for StableDiffusion in `.\Word-As-Image-Extended\TOKEN`.
+- `.\start-<Major>-<Minor>-<Patch>.bat`
 - Follow [Shiriluz/Word-As-Image README](./Word-As-Image-Extended/README.md).
 
 # Copyright
