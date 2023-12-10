@@ -29,6 +29,8 @@ call pip install kornia==0.6.8
 call pip install wandb
 call pip install shapely
 call pip install chardet
+call pip install arabic-reshaper
+call pip install python-bidi
 cd %bat_path%
 
 :: Install diffusers.
