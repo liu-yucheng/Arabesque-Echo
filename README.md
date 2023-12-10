@@ -6,6 +6,7 @@
 
 # Usage
 
+- Download and install [Anaconda](https://www.anaconda.com/download)
 - Download and install [NVIDIA CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive).
 - Set environment variable `CUDA_BIN_PATH` to `<CUDA-Toolkit-Directory>\bin`.
 - Download and install [Visual Studio Build Tool 2019](https://visualstudio.microsoft.com/vs/older-downloads/).
