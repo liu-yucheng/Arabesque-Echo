@@ -5,6 +5,9 @@ rem @echo off
 set bat_path=%~dp0
 chcp 65001
 
+: Activate conda environment.
+call conda activate word_as_image
+
 goto end_comment
 
 :: Run the sample.
