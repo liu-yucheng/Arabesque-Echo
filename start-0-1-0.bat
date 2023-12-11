@@ -4,6 +4,9 @@
 rem @echo off
 set bat_path=%~dp0
 
+: Activate conda environment.
+call conda activate word_as_image
+
 :: Run the sample.
 cd %bat_path%Word-As-Image-Extended
 @echo on
