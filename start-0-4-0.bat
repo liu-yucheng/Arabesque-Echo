@@ -143,9 +143,18 @@ call python code/main_0_4_0.py  --semantic_concept "An apple" --word "تفاحة
 cd %bat_path%
 
 :end_comment_15
+goto end_comment_16
 
 :: Run the sample again.
 cd %bat_path%Word-As-Image-Extended
 @echo on
 call python code/main_0_4_0.py  --semantic_concept "A tree" --word "شجرة-شجرة-شجرة\nTREE-SHAJARAH\nشجرة-شجرة-شجرة\nTREE-SHAJARAH" --optimized_letter "شجرة-شجرة-شجرة\nTREE-SHAJARAH\nشجرة-شجرة-شجرة\nTREE-SHAJARAH" --font "NotoSans-Arabic+English-ExtraBold" --seed 0238
+cd %bat_path%
+
+:end_comment_16
+
+:: Run the sample.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_4_0.py  --semantic_concept "Cat face" --word "قط-قط\nCAT-CAT\nقط-قط\nCAT-CAT" --optimized_letter "قط-قط\nCAT-CAT\nقط-قط\nCAT-CAT" --font "NotoSans-Arabic+English-ExtraBold" --seed 1227
 cd %bat_path%
