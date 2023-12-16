@@ -3,14 +3,15 @@
 !**/.git*
 
 # Word-As-Image ignored files
-Word-As-Image-Extended/
+# Word-As-Image-Extended/
 Word-As-Image-Extended/TOKEN
 Word-As-Image-Extended/output/
 Word-As-Image-Extended/code/data/init/
 
 # diffvg-ported ignored files
-diffvg-ported/
+# diffvg-ported/
 diffvg-ported/build
+!diffvg-ported/build/Directory.Build.props
 diffvg-ported/apps/results
 diffvg-ported/apps/files
 diffvg-ported/apps/__pycache__

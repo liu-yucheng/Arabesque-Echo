@@ -7,10 +7,14 @@
 # Usage
 
 - Download and install [Anaconda](https://www.anaconda.com/download).
+- Add `<Anaconda-Directory>\condabin` to the `PATH` environment variable.
 - Download and install [NVIDIA CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive).
 - Set environment variable `CUDA_BIN_PATH` to `<CUDA-Toolkit-Directory>\bin`.
-- Download and install [Visual Studio Build Tool 2019](https://visualstudio.microsoft.com/vs/older-downloads/).
+- Download and install [Visual Studio 2019](https://visualstudio.microsoft.com/vs/older-downloads/).
+- Select the `Desktop development with C++` workload while installing [Visual Studio 2019](https://visualstudio.microsoft.com/vs/older-downloads/).
+- Download and install [Microsoft Visual C++ Redistributable packages for Visual Studio 2015, 2017, 2019, and 2022](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 - Set environment variable `CMAKE_GENERATOR` to `Visual Studio 16 2019`.
+- Set environment variable `KMP_DUPLICATE_LIB_OK` to `True`.
 - `cd <Arabesque-Echo-Directory>`
 - `.\create-conda-env.bat`
 - `.\install-dependencies.bat`
