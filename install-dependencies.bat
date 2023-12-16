@@ -11,7 +11,7 @@ rem call git submodule update --init --recursive
 rem cd %bat_path%Word-As-Image-Extended
 rem @echo on
 rem call conda create --yes --name word_as_image python=3.8.15
-rem call conda activate word_as_image
+call conda activate word_as_image
 rem cd %bat_path%
 
 :: Install the libraries.
