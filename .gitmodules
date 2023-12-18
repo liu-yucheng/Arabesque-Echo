@@ -4,3 +4,6 @@
 [submodule "Word-As-Image-Extended"]
 	path = Word-As-Image-Extended
 	url = git@github.com:liu-yucheng/Word-As-Image-Extended.git
+[submodule "arabic_acho_ported"]
+	path = arabic_acho_ported
+	url = git@github.com:liu-yucheng/arabic_acho_ported.git
