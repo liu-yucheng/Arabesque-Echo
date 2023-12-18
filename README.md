@@ -3,6 +3,7 @@
 - Arabesque Echo code repository.
 - Includes submodule [liu-yucheng/diffvg-ported](https://github.com/liu-yucheng/diffvg-ported).
 - Includes submodule [liu-yucheng/Word-As-Image-Extended](https://github.com/liu-yucheng/Word-As-Image-Extended).
+- Includes [joshuajohnishere/arabic_acho](https://github.com/joshuajohnishere/arabic_acho), [liu-yucheng/arabic_acho_ported](https://github.com/liu-yucheng/arabic_acho_ported).
 
 # Usage
 
