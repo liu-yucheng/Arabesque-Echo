@@ -31,6 +31,7 @@
 - `.\start-<Major>-<Minor>-<Patch>.bat`
 - Follow [Shiriluz/Word-As-Image README](./Word-As-Image-Extended/README.md).
 - Follow [liu-yucheng/arabic_acho_ported README](./arabic_acho_ported/README.md).
+- See the [minimalist p5.js demo](https://editor.p5js.org/liu-yucheng/sketches/zHHpPtX9j).
 
 # Copyright
 
