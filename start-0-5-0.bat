@@ -259,8 +259,6 @@ cd %bat_path%Word-As-Image-Extended
 call python code/main_0_5_0.py  --semantic_concept "A tree" --word "TREE\nشجرة" --optimized_letter "TREE\nشجرة" --font "NotoSans-Arabic+English-ExtraBold" --seed 0238
 cd %bat_path%
 
-:end_comment_out
-
 :: :::::::: :::::::: :::::::: :::::::: :::::::: :::::::: :::::::: ::::::::
 
 :: Run the sample. 1.
@@ -372,4 +370,128 @@ cd %bat_path%
 cd %bat_path%Word-As-Image-Extended
 @echo on
 call python code/main_0_5_0.py  --semantic_concept "A tree" --word "TREE\nشجرة" --optimized_letter "TREE\nشجرة" --font "NotoSans-Arabic+English-ExtraBold" --seed 1597
+cd %bat_path%
+
+:: :::::::: :::::::: :::::::: :::::::: :::::::: :::::::: :::::::: ::::::::
+
+rem :: Run the sample. 1.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "A cat" --word "CAT\nقط" --optimized_letter "CAT\nقط" --font "NotoSans-Arabic+English-ExtraBold" --seed 1
+rem cd %bat_path%
+
+
+rem :: Run the sample again. 2.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "A flame" --word "PAIN\nألم" --optimized_letter "PAIN\nألم" --font "NotoSans-Arabic+English-ExtraBold" --seed 2
+rem cd %bat_path%
+
+
+rem :: Run the sample again. 3.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "A cloud" --word "SPACE\nفضاء" --optimized_letter "SPACE\nفضاء" --font "NotoSans-Arabic+English-ExtraBold" --seed 3
+rem cd %bat_path%
+
+
+:: Run the sample again. 4.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "A ghost" --word "SOUL\nروح" --optimized_letter "SOUL\nروح" --font "NotoSans-Arabic+English-ExtraBold" --seed 5
+cd %bat_path%
+
+
+rem :: Run the sample again. 5.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "A heart shape" --word "LOVE\nحب" --optimized_letter "LOVE\nحب" --font "NotoSans-Arabic+English-ExtraBold" --seed 8
+rem cd %bat_path%
+
+
+rem :: Run the sample again. 6.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "An olive branch" --word "PEACE\nسلام" --optimized_letter "PEACE\nسلام" --font "NotoSans-Arabic+English-ExtraBold" --seed 13
+rem cd %bat_path%
+
+
+:: Run the sample again. 7.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "Flowers" --word "KIND\nكرم" --optimized_letter "KIND\nكرم" --font "NotoSans-Arabic+English-ExtraBold" --seed 21
+cd %bat_path%
+
+
+:: Run the sample again. 8.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "Arrows" --word "DECISION\nعزيمة" --optimized_letter "DECISION\nعزيمة" --font "NotoSans-Arabic+English-ExtraBold" --seed 34
+cd %bat_path%
+
+
+:: Run the sample again. 9.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "String knots" --word "BOND\nصلة" --optimized_letter "BOND\nصلة" --font "NotoSans-Arabic+English-ExtraBold" --seed 55
+cd %bat_path%
+
+
+:: Run the sample again. 10.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "Smiling faces" --word "JOY\nفرح" --optimized_letter "JOY\nفرح" --font "NotoSans-Arabic+English-ExtraBold" --seed 89
+cd %bat_path%
+
+
+:: Run the sample again. 11.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "Stars" --word "DREAM\nحلم" --optimized_letter "DREAM\nحلم" --font "NotoSans-Arabic+English-ExtraBold" --seed 144
+cd %bat_path%
+
+
+rem :: Run the sample again. 12.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "An eagle" --word "EAGLE\nنسر" --optimized_letter "EAGLE\nنسر" --font "NotoSans-Arabic+English-ExtraBold" --seed 233
+rem cd %bat_path%
+
+
+:: Run the sample again. 13.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "Fish" --word "OCEAN\nبحر" --optimized_letter "OCEAN\nبحر" --font "NotoSans-Arabic+English-ExtraBold" --seed 377
+cd %bat_path%
+
+
+rem :: Run the sample again. 14.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "A mountain" --word "MOUNTAIN\nجَبَل" --optimized_letter "MOUNTAIN\nجَبَل" --font "NotoSans-Arabic+English-ExtraBold" --seed 610
+rem cd %bat_path%
+
+
+rem :: Run the sample again. 15.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "An apple" --word "APPLE\nتفاحة" --optimized_letter "APPLE\nتفاحة" --font "NotoSans-Arabic+English-ExtraBold" --seed 987
+rem cd %bat_path%
+
+
+rem :: Run the sample again. 16.
+rem cd %bat_path%Word-As-Image-Extended
+rem @echo on
+rem call python code/main_0_5_0.py  --semantic_concept "A tree" --word "TREE\nشجرة" --optimized_letter "TREE\nشجرة" --font "NotoSans-Arabic+English-ExtraBold" --seed 1597
+rem cd %bat_path%
+
+
+:end_comment_out
+
+:: :::::::: :::::::: :::::::: :::::::: :::::::: :::::::: :::::::: ::::::::
+
+:: Run the sample again. 17.
+cd %bat_path%Word-As-Image-Extended
+@echo on
+call python code/main_0_5_0.py  --semantic_concept "A tree" --word "WORLD\nعالَم" --optimized_letter "WORLD\nعالَم" --font "NotoSans-Arabic+English-ExtraBold" --seed 0
 cd %bat_path%
