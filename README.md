@@ -3,6 +3,13 @@
 - Arabesque Echo code repository.
 - Includes submodule [liu-yucheng/diffvg-ported](https://github.com/liu-yucheng/diffvg-ported).
 - Includes submodule [liu-yucheng/Word-As-Image-Extended](https://github.com/liu-yucheng/Word-As-Image-Extended).
+- Includes [joshuajohnishere/arabic_acho](https://github.com/joshuajohnishere/arabic_acho), [liu-yucheng/arabic_acho_ported](https://github.com/liu-yucheng/arabic_acho_ported).
+
+# Logo
+
+![Arabesque Echo Logo](./README-Assets/peace-logo.png)
+
+- Made with the best wishes for peace by Yucheng Liu and Nijiati Alimujiang.
 
 # Usage
 
@@ -23,6 +30,8 @@
 - Copy and paste your [HuggingFace access token](https://huggingface.co/settings/tokens) for StableDiffusion in `.\Word-As-Image-Extended\TOKEN`.
 - `.\start-<Major>-<Minor>-<Patch>.bat`
 - Follow [Shiriluz/Word-As-Image README](./Word-As-Image-Extended/README.md).
+- Follow [liu-yucheng/arabic_acho_ported README](./arabic_acho_ported/README.md).
+- See the [minimalist p5.js demo](https://editor.p5js.org/liu-yucheng/sketches/zHHpPtX9j).
 
 # Copyright
 
