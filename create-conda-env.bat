@@ -3,6 +3,9 @@ rem @echo off
 set bat_path=%~dp0
 
 :: Initiate git submodules.
+call git submodule add git@github.com:liu-yucheng/diffvg-ported.git
+call git submodule add git@github.com:liu-yucheng/Word-As-Image-Extended.git
+call git submodule add git@github.com:liu-yucheng/arabic_acho_ported.git
 call git submodule update --init --recursive
 
 :: Create conda environment.
